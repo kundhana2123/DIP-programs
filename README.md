@@ -1,6 +1,6 @@
 # DIP-programs
 
-**Program - 1**
+**PROGRAM - 1
 
 Perform the following operations using library functions 
 
@@ -14,7 +14,7 @@ Perform the following operations using library functions
     
     e. Image rotates by 90 and 180 degrees. 
 
-**Program - 2**
+**PROGRAM - 2**
 
 Create black and white images (A) of size 1024x1024. Which consists of alternative horizontal lines of black and white? Each line is of size 128. Create black and white images (B) of size 1024x1024. Which consists of alternative vertical lines of black and white? Each line is of size 128.Perform the following operations on Image A and Image B. 
 
@@ -28,15 +28,15 @@ Create black and white images (A) of size 1024x1024. Which consists of alternati
 
        e. Create a white image of size 256x256, with black box of size 58x58 at centre. 
 
-**Program - 3**
+**PROGRAM - 3**
 
 Computation of mean, Standard Deviation, Correlation coefficient of the given Image.
 
-**Program - 4**
+**PROGRAM - 4**
 
 Image interpolation in python
 
-**Program - 5**
+**PROGRAM - 5**
 
 Develop programs for following intensity transformation operation on a gray scale image. Collect any gray scale image from any source. Process that image using these operations.
 
