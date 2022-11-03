@@ -3,10 +3,15 @@
 Program - 1
 
 Perform the following operations using library functions 
+
     a. Read, Display and write any color image in other formats. 
+    
     b. Find RED, GREEN and BLUE plane of the color image. 
+    
     c. Convert color image into gray scale image and binary image. 
+    
     d. Resize the image by one half and one quarter. 
+    
     e. Image rotates by 90 and 180 degrees. 
 
 Program - 2
