@@ -1,6 +1,6 @@
 # DIP-programs
 
-**PROGRAM - 1
+**PROGRAM - 1**
 
 Perform the following operations using library functions 
 
