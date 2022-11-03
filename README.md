@@ -1,6 +1,7 @@
 # DIP-programs
 
 Program - 1
+
 Perform the following operations using library functions 
     a. Read, Display and write any color image in other formats. 
     b. Find RED, GREEN and BLUE plane of the color image. 
@@ -9,6 +10,7 @@ Perform the following operations using library functions
     e. Image rotates by 90 and 180 degrees. 
 
 Program - 2
+
 Create black and white images (A) of size 1024x1024. Which consists of alternative horizontal lines of 
 black and white? Each line is of size 128. Create black and white images (B) of size 1024x1024. Which 
 consists of alternative vertical lines of black and white? Each line is of size128.Perform the following 
@@ -21,12 +23,15 @@ sinusoidal.
 e. Create a white image of size 256x256, with black box of size 58x58 at centre. 
 
 Program - 3
+
 Computation of mean, Standard Deviation, Correlation coefficient of the given Image.
 
 Program - 4
+
 Image interpolation in python
 
 Program - 5
+
 Develop programs for following intensity transformation operation on a gray scale image. Collect any 
 gray scale image from any source. Process that image using these operations. 
 a. Image negative 
